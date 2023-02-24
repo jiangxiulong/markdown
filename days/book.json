@@ -1,0 +1,21 @@
+{
+    "title": "姜秀龙的日常笔记",
+    "author": "fingerQin",
+    "description": "一本集作者十年开发经验的 PHP 电子书",
+    "language": "zh-hans",
+    "gitbook": "3.2.3",
+    "structure": {
+        "readme": "README.md"
+    },
+    "links": {
+        "sidebar": {
+            "姜秀龙": "https://phpp.com"
+        }
+    },
+    "plugins": [
+        "highlight",
+        "back-to-top-button",
+        "page-treeview",
+        "expandable-chapters"
+    ]
+}
